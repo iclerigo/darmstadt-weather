@@ -1,2 +1,2 @@
 # darmstadt-weather
-Crunching numbers about weather in Darmstadt &amp; Frankfurt area
+Crunching Darmstadt &amp; Frankfurt area weather data
